@@ -3,8 +3,8 @@
 
 1. **Clone the Repository**
     ```sh
-    git clone https://github.com/your-repo/my-eks-project.git
-    cd my-eks-project
+    git clone https://github.com/your-repo/EKS-CICD-PROJECT.git
+    cd EKS-CICD-PROJECT
     ```
 
 2. **Initialize Terraform**
